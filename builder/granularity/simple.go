@@ -1,6 +1,6 @@
 package granularity
 
-import "github.com/grafadruid/go-druid/builder"
+import "github.com/fabriks/go-druid/builder"
 
 type Simple string
 

@@ -3,8 +3,8 @@ package filter
 import (
 	"encoding/json"
 
-	"github.com/grafadruid/go-druid/builder"
-	"github.com/grafadruid/go-druid/builder/bound"
+	"github.com/fabriks/go-druid/builder"
+	"github.com/fabriks/go-druid/builder/bound"
 )
 
 type Spatial struct {

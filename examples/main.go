@@ -5,7 +5,7 @@ import (
 	"log"
 
 	"github.com/davecgh/go-spew/spew"
-	"github.com/grafadruid/go-druid"
+	"github.com/fabriks/go-druid"
 )
 
 func main() {

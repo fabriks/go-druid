@@ -3,9 +3,9 @@ package query
 import (
 	"encoding/json"
 
-	"github.com/grafadruid/go-druid/builder"
-	"github.com/grafadruid/go-druid/builder/datasource"
-	"github.com/grafadruid/go-druid/builder/types"
+	"github.com/fabriks/go-druid/builder"
+	"github.com/fabriks/go-druid/builder/datasource"
+	"github.com/fabriks/go-druid/builder/types"
 )
 
 type Base struct {

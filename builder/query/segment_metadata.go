@@ -3,9 +3,9 @@ package query
 import (
 	"encoding/json"
 
-	"github.com/grafadruid/go-druid/builder"
-	"github.com/grafadruid/go-druid/builder/toinclude"
-	"github.com/grafadruid/go-druid/builder/types"
+	"github.com/fabriks/go-druid/builder"
+	"github.com/fabriks/go-druid/builder/toinclude"
+	"github.com/fabriks/go-druid/builder/types"
 )
 
 type AnalysisType string

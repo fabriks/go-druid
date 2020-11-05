@@ -3,7 +3,7 @@ package granularity
 import (
 	"encoding/json"
 
-	"github.com/grafadruid/go-druid/builder"
+	"github.com/fabriks/go-druid/builder"
 )
 
 type Base struct {

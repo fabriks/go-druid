@@ -1,8 +1,8 @@
 package query
 
 import (
-	"github.com/grafadruid/go-druid/builder"
-	"github.com/grafadruid/go-druid/builder/types"
+	"github.com/fabriks/go-druid/builder"
+	"github.com/fabriks/go-druid/builder/types"
 )
 
 type DataSourceMetadata struct {

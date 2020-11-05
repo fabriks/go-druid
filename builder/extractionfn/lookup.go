@@ -3,8 +3,8 @@ package extractionfn
 import (
 	"encoding/json"
 
-	"github.com/grafadruid/go-druid/builder"
-	"github.com/grafadruid/go-druid/builder/lookup"
+	"github.com/fabriks/go-druid/builder"
+	"github.com/fabriks/go-druid/builder/lookup"
 )
 
 type Lookup struct {

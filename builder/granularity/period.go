@@ -3,7 +3,7 @@ package granularity
 import (
 	"time"
 
-	"github.com/grafadruid/go-druid/builder/types"
+	"github.com/fabriks/go-druid/builder/types"
 )
 
 type Period struct {

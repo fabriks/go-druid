@@ -3,14 +3,14 @@ package query
 import (
 	"encoding/json"
 
-	"github.com/grafadruid/go-druid/builder"
-	"github.com/grafadruid/go-druid/builder/aggregation"
-	"github.com/grafadruid/go-druid/builder/filter"
-	"github.com/grafadruid/go-druid/builder/granularity"
-	"github.com/grafadruid/go-druid/builder/postaggregation"
-	"github.com/grafadruid/go-druid/builder/topnmetric"
-	"github.com/grafadruid/go-druid/builder/types"
-	"github.com/grafadruid/go-druid/builder/virtualcolumn"
+	"github.com/fabriks/go-druid/builder"
+	"github.com/fabriks/go-druid/builder/aggregation"
+	"github.com/fabriks/go-druid/builder/filter"
+	"github.com/fabriks/go-druid/builder/granularity"
+	"github.com/fabriks/go-druid/builder/postaggregation"
+	"github.com/fabriks/go-druid/builder/topnmetric"
+	"github.com/fabriks/go-druid/builder/types"
+	"github.com/fabriks/go-druid/builder/virtualcolumn"
 )
 
 type TopN struct {
